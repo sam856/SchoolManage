@@ -13,7 +13,7 @@ cd SchoolManagment
 Open `appsettings.json` and update the connection string:
 {
   "ConnectionStrings": {
-    "dbcontext": "Server=db33499.public.databaseasp.net; Database=db33499; User Id=db33499; Password=mA_2J#5o@sC8; Encrypt=True; TrustServerCertificate=True;"
+    "dbcontext": "Server=db33499.public.databaseasp.net; Database=db33499; User Id=db33499; Password=***8; Encrypt=True; TrustServerCertificate=True;"
   }
 }
 
